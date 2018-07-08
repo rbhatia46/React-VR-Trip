@@ -13,3 +13,5 @@ npm install
 ```
 npm start
 ```
+
+You app will run on **localhost:8081/vr** by default.
